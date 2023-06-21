@@ -42,7 +42,7 @@
    - Namespace: use `using namespace std` to use functions and objects in the 
     `std` namespace.
 
-#OUTPUT
+# OUTPUT
 1. Here is the first display when the program is run
 
 ![Screenshot (236)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/03fbee09-1044-470c-a8a9-8ce918e55d41)
