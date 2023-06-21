@@ -1,5 +1,28 @@
-# coffeeshop cashier program
+# COFFEE SHOP CASHIER PROGRAM
+  The program above is a simple implementation of a Coffee Shop using the C++ 
+  programming language. This program allows users to select the coffee menu, 
+  coffee size, and payment method, as well as calculate the total price and 
+  refund.
 
+  This program uses several variables such as menu, harga, and ukuran which is an 
+  array to store the menu list, price, and size of coffee. hitungTotalHarga 
+  function is used to calculate the total price of an order based on the quantity 
+  and price per item.
+
+  After the user selects the menu, size, and enters the order quantity, the 
+  program will calculate the total price based on that input. Next, the user will 
+  be asked to select a payment method and enter the amount to be paid. If the 
+  amount of payment money is sufficient, the program will calculate the change.
+
+  Finally, the program will display a receipt that includes order details, total 
+  price, amount paid, and change.
+
+  This program can be compiled and run using C++ compilers such as GCC, Clang and 
+  others
+
+
+
+## OUTPUT
 # Here is the first display when the program is run
 ![Screenshot (236)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/03fbee09-1044-470c-a8a9-8ce918e55d41)
 You will be given the option to select an existing menu
