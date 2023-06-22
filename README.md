@@ -47,7 +47,7 @@
 
 1.  Here is the first display when the program is run
    
-   ![Screenshot (236)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/7df654b8-9c74-4a20-ac69-862b08564fcc)
+    ![Screenshot (236)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/7df654b8-9c74-4a20-ac69-862b08564fcc)
 
 
     You will be given the option to select an existing menu
@@ -55,16 +55,17 @@
 2.  For example, the menu you choose is number 2, then you will again be given 
     the option of 3 menu size options
     
-    ![Screenshot (237)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/41239b22-94eb-4d74-9177-20608245bb25)
+     ![Screenshot (237)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/73696772-e913-4524-9f54-ad5dd641a7ad)
 
 3. Next you will be given an order to enter the number of orders you want
    
-   ![Screenshot (238)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/763a9109-27a6-46e9-9b63-8c849d347d31)
+   ![Screenshot (238)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/a8543fdc-4963-45d9-9daf-8175207ab4e6)
 
 4. For example, if you order 5 copies, the total price you have to pay and 2
    
-   ![Screenshot (239)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/6b77358a-1b20-4eaf-a2d1-b17fd235fd9f)
+   ![Screenshot (239)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/32020266-1cb5-4cf1-8d35-4816aa87799b)
 
 5. Finally you can make a payment and a payment receipt will be displayed
     
-   ![Screenshot (240)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/9dc6efb6-eb9a-44d2-af07-2ae3dfaf5926)
+   ![Screenshot (240)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/556aba37-e96b-4e7e-8f12-7df32a897db0)
+
