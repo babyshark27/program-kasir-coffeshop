@@ -47,7 +47,8 @@
 
 1.  Here is the first display when the program is run
    
-   ![Screenshot (236)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/c2cd3f21-1890-456d-bf57-799eccca7e5a)
+   ![Screenshot (236)](https://github.com/babyshark27/program-kasir-coffeshop/assets/136563048/7df654b8-9c74-4a20-ac69-862b08564fcc)
+
 
     You will be given the option to select an existing menu
 
